@@ -1,11 +1,9 @@
-Welcome to my page! I'm Wmerna, a code-addicted student from  Thonon, France.
+Welcome to the oxmerna public, code-addicted students.
 
-I'm an amateur oenologist and Web3 lover ;) 
-
-My current big project is: 🤫
+our current big project is: 🤫
 [Owlski](https://owlski.fr/)
 
-I love discovering languages or frameworks that increase my productivity for my new projects so feel free to send me a message with your recommendations on Discord or Twitter!😁
+Love discovering languages or frameworks that increase productivity for new projects. So feel free to send message with your recommendations on Discord or Twitter!😁
 
 Contact me 🤝
 I'm available on [Codeur.com](https://www.codeur.com/-talentueux)
