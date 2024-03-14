@@ -8,4 +8,4 @@ Love discovering languages or frameworks that increase productivity for new proj
 Contact me 🤝
 I'm available on [Codeur.com](https://www.codeur.com/-talentueux)
 
-Follow me on [Twitter](https://twitter.com/0xmerna)
+Follow me on [Twitter](https://twitter.com/xOwlski)
